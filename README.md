@@ -76,11 +76,6 @@ Passionate about building impactful software, exploring data, and experimenting 
 
 ---
 
-## 📊 Data & AI
-![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv)
-
----
-
 ## ☁️ Cloud / DevOps
 ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
