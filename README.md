@@ -9,16 +9,11 @@ Passionate about building impactful software, exploring data, and experimenting 
 
 # 🚀 About Me
 
-- 🎓 3rd-year **Computer Science Student**
-- 🔭 Currently working on  
-  - **Food Waste Platform (Startup Project)**  
-  - **Drag a rai dee**
-- 🌱 Currently learning  
-  - **Data Warehousing**  
-  - **Data Mining**
-- 🔌 Interested in **IoT & Hardware Projects**
-- 🧠 Built a **Library Face Scanner System**
-- 🎮 Outside coding: optimizing builds in **Path of Exile 2**, retro emulation, reading **Lord of the Mysteries**
+- 🎓 3rd-year **Computer Science Student** with a focus on full-stack and mobile development
+- 📱 Currently building **UniEat** — a gamified food waste rescue platform for university campuses (React Native & Expo)
+- 🌐 Previously developed **SavePlate** — a food waste reduction web app built with React & Vite
+- 🧠 Built a **Library Face Recognition System** using ArcFace AI and Flask for automated attendance tracking
+- 📊 Currently expanding into **Data Warehousing** and **Data Mining**
 
 ---
 
